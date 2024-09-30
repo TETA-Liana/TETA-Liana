@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TETA-Liana
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning nextjs
+  
   
 - 📫 How to reach me :contact 0782829341
   
