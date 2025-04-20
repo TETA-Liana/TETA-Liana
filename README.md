@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TETA-Liana
-- 🌱 I’m currently learning nextjs
+
   
   
 - 📫 How to reach me :contact 0782829341
